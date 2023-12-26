@@ -22,14 +22,14 @@
 
 我会在多个平台上同步发布本周刊的内容，欢迎订阅关注！
 
--   [Github](https://github.com/soniceapp/Featured-Products-Weekly)：每周更新周刊内容
+-   [Github](https://soniceapp.apifox.cn/)：每周更新周刊内容
 -   [公众号 | 什么软件好]()：除了周刊内容，还有精选产品的特别推荐
 -   [Blog](https://www.soniceapp.com/information.html) ：官网博客，包含各种软件教程和文档资料
 
 
 ## 往期列表
 
--   第 1 期：[筹备中](https://soniceapp.apifox.cn/doc-3464875)
+-   第 1 期：[精选软件 #01 | 用AI提高工作效率](https://soniceapp.apifox.cn/doc-3464875)
 
 
 ## 商务合作
